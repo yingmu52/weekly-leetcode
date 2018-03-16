@@ -1,2 +1,1 @@
-# weekly-leetcode
-Leetcode Weekly Challenge 
+# Please visit `Issues` to submit your weekly leetcode answer 
